@@ -1,0 +1,12 @@
+{
+  "name" : "GreenRiverDev/328/Taco",
+  "authors" : [
+    {
+      "name": "William Wittig",
+      "email": "wittig.william@student.greenriver.edu"
+    }
+  ],
+  "require" : {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
