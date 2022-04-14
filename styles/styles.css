@@ -1,0 +1,21 @@
+#petBox {
+    text-align: center;
+}
+
+#title {
+    display: block;
+    margin-bottom: 30px;
+}
+
+#hyperLink {
+    display: block;
+    color: #005cbf;
+}
+
+#dogImg {
+    display: block;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
