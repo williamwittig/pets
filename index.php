@@ -13,7 +13,8 @@
     $f3->route('GET /', function() {
         // echo '<h1>Hello, world!</h1>';
 
-        echo "Pet Home";
+        $view = new Template();
+        echo $view->render('views/home.html');
     });
 
     // Run fat free
